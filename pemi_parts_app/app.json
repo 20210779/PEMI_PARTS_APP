@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "Penmi-Parts-Mobile",
-    "slug": "Penmi-Parts-Mobile",
+    "name": "Navigation",
+    "slug": "Navigation",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "video": "./assets/Pemi.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#000000"
     },
     "ios": {
       "supportsTablet": true
